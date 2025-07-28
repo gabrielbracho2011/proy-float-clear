@@ -1,0 +1,43 @@
+.imagen1 {
+    float: left;
+    border: solid 2px red;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+h2 {
+    clear: both;
+}
+
+.imagen2 {
+    clear: both;
+    float: right;
+    border: solid 2px blue;
+    margin-left: 20px;
+}
+
+.parrafo1 {
+    margin-right: 20px;
+}
+
+.parrafo2 {
+    margin-left: 20px;
+}
+
+.coustard-regular {
+    font-family: "Coustard", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.winky-rough-parrafo {
+  font-family: "Winky Rough", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+}
